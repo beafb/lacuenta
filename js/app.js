@@ -41,12 +41,12 @@ particlesJS('particles-js',
       }
     },
     "opacity": {
-      "value": 0.5,
+      "value": 0.1,
       "random": false,
       "anim": {
         "enable": false,
         "speed": 1,
-        "opacity_min": 0.1,
+        "opacity_min": 0.01,
         "sync": false
       }
     },
